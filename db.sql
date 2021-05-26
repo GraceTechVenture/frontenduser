@@ -2,5 +2,6 @@
 MySQL Database
 H2DB
 MongoDB
-TSDB=dev
+TSDB=dev.
+Database=Cassandra
 
